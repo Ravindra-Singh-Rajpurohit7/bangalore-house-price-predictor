@@ -175,6 +175,9 @@ Response:
 
 Ravindra Singh Rajpurohit
 
+## PROJECT-UI
+<img width="631" height="284" alt="image" src="https://github.com/user-attachments/assets/13cbea6b-f26a-4635-b226-330c493e2979" />
+
 ## License
 
 This project is developed for educational and learning purposes.
