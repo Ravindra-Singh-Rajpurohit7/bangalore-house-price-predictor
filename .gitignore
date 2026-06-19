@@ -1,0 +1,14 @@
+# Python / FastAPI
+__pycache__/
+*.pyc
+.env
+venv/
+.pytest_cache/
+
+# React / Node
+node_modules/
+/client/build
+.eslintcache
+.DS_Store
+.cache/
+
